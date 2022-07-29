@@ -35,7 +35,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fabio-MR/Fabio-MR/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Fabio-MR/Fabio-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
